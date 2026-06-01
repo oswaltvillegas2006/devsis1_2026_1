@@ -2,15 +2,30 @@
 layout: home
 
 hero:
-  name: Oswalt-VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: TechForge
+
+  text: Rapido, barato e eficiente.
+  tagline: Loja de componentes para o seu PC
   actions:
     - theme: brand
-      text: Get Started
-      link: /desenvolvimento
+      text: Teste
       link: /teste
+  
+
+      actions:
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Tela
+      link: /tela
+
+      actions:
+    - theme: brand
+      text:  Pagina
+      link: /pagina
+
+      actions:
+    - theme: alt
+      text:  Desenvolvimento
+      link: /desenvolvimento
+      
+      
 ---

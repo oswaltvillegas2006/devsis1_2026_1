@@ -3,12 +3,16 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
-  title: 'libilibi',
+  title: 'TechForge',
   description: 'site de desnvolvimento de sistema.',
 
   themeConfig: {
     nav: [
       { text: 'Example', link: '/example' },
+      { text: 'Tela', link: '/tela' },
+      { text: 'Pagina', link: '/pagina' },
+      { text: 'Teste', link: '/teste' },
+      { text: 'Desenvolvimento', link: '/desenvolvimento' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -26,9 +30,15 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
+          
+          { text: 'teste', link: '/teste' },
+               
           { text: 'example', link: '/example' },
+
           { text: 'desenvolvimento', link: '/desenvolvimento' },
-          // ...
+         
+          { text: 'tela', link: '/tela' },
+          
         ],
       },
     ],
