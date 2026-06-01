@@ -9,6 +9,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /desenvolvimento
+      link: /teste
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
