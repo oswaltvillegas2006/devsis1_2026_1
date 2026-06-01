@@ -8,6 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
+      { text: 'Login', link: '/login' },
       { text: 'Example', link: '/example' },
       { text: 'Tela', link: '/tela' },
       { text: 'Pagina', link: '/pagina' },
@@ -31,6 +32,8 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           
+          { text: 'Login', link: '/login' },
+         
           { text: 'teste', link: '/teste' },
                
           { text: 'example', link: '/example' },
@@ -38,6 +41,10 @@ export default defineConfig({
           { text: 'desenvolvimento', link: '/desenvolvimento' },
          
           { text: 'tela', link: '/tela' },
+
+          { text: 'Pagina', link: '/pagina' },
+
+         
           
         ],
       },

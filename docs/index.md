@@ -7,6 +7,11 @@ hero:
   text: Rapido, barato e eficiente.
   tagline: Loja de componentes para o seu PC
   actions:
+    - theme: alt
+      text: Login
+      link: /Login
+
+      actions:
     - theme: brand
       text: Teste
       link: /teste
