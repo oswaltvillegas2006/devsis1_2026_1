@@ -9,8 +9,8 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Login', link: '/login' },
-      { text: 'Example', link: '/example' },
-      { text: 'Tela', link: '/tela' },
+      { text: 'Canvas', link: '/canvas' },
+      { text: 'Introdução', link: '/intro' },
       { text: 'Pagina', link: '/pagina' },
       { text: 'Teste', link: '/teste' },
       { text: 'Desenvolvimento', link: '/desenvolvimento' },
@@ -34,9 +34,9 @@ export default defineConfig({
           
           { text: 'Login', link: '/login' },
          
-          { text: 'teste', link: '/teste' },
+          { text: 'Introdução', link: '/intro' },
                
-          { text: 'example', link: '/example' },
+          { text: 'Canvas', link: '/canvas' },
 
           { text: 'desenvolvimento', link: '/desenvolvimento' },
          

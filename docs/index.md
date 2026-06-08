@@ -9,12 +9,19 @@ hero:
   actions:
     - theme: alt
       text: Login
-      link: /Login
+      link: /login
+      
 
       actions:
     - theme: brand
-      text: Teste
-      link: /teste
+      text: introdução
+      link: /intro
+
+
+      actions:
+    - theme: alt
+      text:  Desenvolvimento
+      link: /desenvolvimento
   
 
       actions:
@@ -27,10 +34,9 @@ hero:
       text:  Pagina
       link: /pagina
 
-      actions:
-    - theme: alt
-      text:  Desenvolvimento
-      link: /desenvolvimento
+      
+
+      
       
       
 ---
