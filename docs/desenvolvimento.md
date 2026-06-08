@@ -16,5 +16,8 @@ Para atender tanto as necessidades de negócio quanto a facilidade de uso, a Tec
 * **Rastreamento de Processo Logístico Interno:** Atualização do status do pedido em microetapas transparentes para o cliente: "Separação de estoque", "Bancada de montagem", "Fase de testes/Benchmarks" e "Despachado para entrega".
 
 ---
+## diagrama de Relacionamento
+![Canvas](./imagens/diagrama.jpeg)
 
-#
+## diagrama de caso de uso
+![Canvas](./imagens/diagrama%202.jpeg)

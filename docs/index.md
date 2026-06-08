@@ -26,12 +26,12 @@ hero:
 
       actions:
     - theme: alt
-      text: Tela
+      text: diagrama de caso de uso
       link: /tela
 
       actions:
     - theme: brand
-      text:  Pagina
+      text:  Diagrama de entidade 
       link: /pagina
 
       
