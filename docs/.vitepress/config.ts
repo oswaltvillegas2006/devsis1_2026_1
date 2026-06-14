@@ -9,11 +9,13 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Login', link: '/login' },
-      { text: 'Canvas', link: '/canvas' },
       { text: 'Introdução', link: '/intro' },
-      { text: 'Pagina', link: '/pagina' },
-      { text: 'Teste', link: '/teste' },
+      { text: 'Canvas', link: '/canvas' },
       { text: 'Desenvolvimento', link: '/desenvolvimento' },
+      { text: 'Diagramas', link: '/pagina' },
+      { text: 'Tela', link: '/tela' },      
+      { text: 'Teste', link: '/teste' },
+      
 
       // {
       //   text: 'Dropdown Menu',
@@ -40,9 +42,16 @@ export default defineConfig({
 
           { text: 'desenvolvimento', link: '/desenvolvimento' },
          
+          
+          
           { text: 'tela', link: '/tela' },
 
-          { text: 'Pagina', link: '/pagina' },
+          
+          { text: 'coisas', link: '/teste' },
+
+
+
+          { text: 'Diagarmas', link: '/pagina' },
 
          
           

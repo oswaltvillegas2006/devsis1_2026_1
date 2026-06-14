@@ -17,6 +17,11 @@ hero:
       text: introdução
       link: /intro
 
+      actions:
+    - theme: alt
+      text: Canvas
+      link: /canvas
+
 
       actions:
     - theme: alt
@@ -26,12 +31,12 @@ hero:
 
       actions:
     - theme: alt
-      text: diagrama de caso de uso
+      text: tela
       link: /tela
 
       actions:
     - theme: brand
-      text:  Diagrama de entidade 
+      text:  Diagramas 
       link: /pagina
 
       
