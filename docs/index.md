@@ -11,7 +11,6 @@ hero:
       text: Login
       link: /login
       
-
       actions:
     - theme: brand
       text: introdução
@@ -22,18 +21,22 @@ hero:
       text: Canvas
       link: /canvas
 
-
       actions:
     - theme: brand
       text:  Desenvolvimento
       link: /desenvolvimento
-  
 
-     
       actions:
     - theme: alt
+      text: Requisitos Funcionais
+      link: /requisitos
+
+      actions:
+    - theme: brand
       text:  Diagramas 
       link: /pagina
+
+      
 
       
 
