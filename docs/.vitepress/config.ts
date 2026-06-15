@@ -12,7 +12,7 @@ export default defineConfig({
       { text: 'Introdução', link: '/intro' },
       { text: 'Canvas', link: '/canvas' },
       { text: 'Desenvolvimento', link: '/desenvolvimento' },
-      { text: 'Requisitos Funcionais', link: '/requisitos' },
+      { text: 'Requisitos ', link: '/requisitos' },
       { text: 'Diagramas', link: '/pagina' },
       
       
@@ -33,9 +33,9 @@ export default defineConfig({
 
           { text: 'desenvolvimento', link: '/desenvolvimento' },
 
-          { text: 'Requisitos Funcionais', link: '/requisitos' },
+          { text: 'Requisitos ', link: '/requisitos' },
                           
-          { text: 'Diagarmas', link: '/pagina' },
+          { text: 'Diagramas', link: '/pagina' },
 
           
          

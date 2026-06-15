@@ -28,7 +28,7 @@ hero:
 
       actions:
     - theme: alt
-      text: Requisitos Funcionais
+      text: Requisitos 
       link: /requisitos
 
       actions:
