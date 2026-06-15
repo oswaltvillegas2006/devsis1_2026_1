@@ -15,6 +15,8 @@ export default defineConfig({
       { text: 'Requisitos ', link: '/requisitos' },
       { text: 'Diagramas', link: '/pagina' },
       { text: 'Riscos e Mitigação', link: '/riscos' },
+      { text: 'Orçamento', link: '/orçamento' },
+      { text: 'Considerações Finais', link: '/consideracoes' },
       
       
     
@@ -39,6 +41,10 @@ export default defineConfig({
           { text: 'Diagramas', link: '/pagina' },
 
           { text: 'Riscos e Mitigação', link: '/riscos' },
+
+          { text: 'Orçamento', link: '/orçamento' },
+
+          { text: 'Considerações Finais', link: '/consideracoes' },
 
           
          

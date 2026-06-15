@@ -41,6 +41,18 @@ hero:
       text:  Riscos e Mitigação
       link: /riscos
 
+      actions:
+    - theme: brand
+      text:  Orçamento
+      link: /orçamento
+
+      actions:
+    - theme: alt
+      text:  Considerações Finais
+      link: /consideracoes
+
+
+
 
       
 
