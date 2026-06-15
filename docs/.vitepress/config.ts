@@ -14,7 +14,7 @@ export default defineConfig({
       { text: 'Desenvolvimento', link: '/desenvolvimento' },
       { text: 'Diagramas', link: '/pagina' },
       { text: 'Tela', link: '/tela' },      
-      { text: 'Teste', link: '/teste' },
+    
       
 
       // {
@@ -41,15 +41,8 @@ export default defineConfig({
           { text: 'Canvas', link: '/canvas' },
 
           { text: 'desenvolvimento', link: '/desenvolvimento' },
-         
-          
-          
+                  
           { text: 'tela', link: '/tela' },
-
-          
-          { text: 'coisas', link: '/teste' },
-
-
 
           { text: 'Diagarmas', link: '/pagina' },
 
