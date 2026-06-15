@@ -10,6 +10,7 @@ Desenvolvido com uma arquitetura baseada em componentização no ecossistema Typ
 **RF001** - Consultar Catálogo: O sistema deve permitir que vendedores e clientes consultem o catálogo completo de peças com filtros por categoria, marca, faixa de preço e disponibilidade.
 
 **RF002** - Montar PC Personalizado: O sistema deve fornecer uma ferramenta interativa para a escolha de componentes individuais com exibição de compatibilidade em tempo real.
+
 **RF003** - Realizar Compra: O sistema deve permitir o processamento de vendas presenciais, adicionando produtos ao carrinho e finalizando a transação.
 
 **RF004** - Efetuar Pagamento: O sistema deve integrar-se com gateway de pagamento para processar transações via PIX, cartão de crédito ou débito.
