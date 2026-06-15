@@ -4,7 +4,7 @@ O **TechForge** é um sistema web de e-commerce e montagem assistida de computad
 
 Desenvolvido com uma arquitetura baseada em componentização no ecossistema TypeScript, o software separa rigidamente a camada de apresentação (Front-end responsivo) da camada de dados (Back-end/Banco de dados). A plataforma não funciona apenas como um catálogo estático, mas sim como um sistema especialista dinâmico, onde algoritmos de validação em tempo real analisam as restrições físicas, elétricas e lógicas de cada peça inserida no ecossistema do cliente. O deploy contínuo integrado via GitHub e Vercel garante resiliência e alta disponibilidade para o usuário final.
 
-## Algoritmos de Validação em Tempo Real (O Motor Especialista)
+## Algoritmos de validação em tempo real
 O grande diferencial do sistema reside na sua capacidade de validar a compatibilidade de hardware em três níveis críticos a cada componente adicionado pelo usuário:
 
 **Restrições Lógicas**: Validação estrita de compatibilidade eletrônica entre o processador (CPU) e a placa-mãe (verificação de soquete e suporte de chipset), além da tipagem e geração da memória RAM (DDR4 vs DDR5) e slots de expansão (M.2 NVMe vs SATA).
