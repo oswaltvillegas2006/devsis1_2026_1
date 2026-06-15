@@ -1,4 +1,4 @@
-# Tela de Login
+# Login
 
 Preencha os dados abaixo para acessar a plataforma.
 
@@ -25,14 +25,15 @@ import { ref } from 'vue'
 
 const email = ref('')
 const password = ref('')
+const logado = ref(false) // Variável para controlar se o usuário logou
 
 const handleLogin = () => {
   if (email.value && password.value) {
-    alert(`Tentativa de login enviada!\nE-mail: ${email.value}\nSenha: ${password.value}`)
+    // Esconde o formulário e mostra uma mensagem de sucesso na tela
+    logado.value = true 
   }
 }
 </script>
-
 <style scoped>
 .login-container {
   display: flex;
