@@ -36,6 +36,12 @@ hero:
       text:  Diagramas 
       link: /pagina
 
+      actions:
+    - theme: alt
+      text:  Riscos e Mitigação
+      link: /riscos
+
+
       
 
       
