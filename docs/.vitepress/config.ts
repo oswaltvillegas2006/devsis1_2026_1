@@ -13,20 +13,9 @@ export default defineConfig({
       { text: 'Canvas', link: '/canvas' },
       { text: 'Desenvolvimento', link: '/desenvolvimento' },
       { text: 'Diagramas', link: '/pagina' },
-      { text: 'Tela', link: '/tela' },      
-    
       
-
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
+    
+         
     ],
 
     sidebar: [
@@ -41,13 +30,9 @@ export default defineConfig({
           { text: 'Canvas', link: '/canvas' },
 
           { text: 'desenvolvimento', link: '/desenvolvimento' },
-                  
-          { text: 'tela', link: '/tela' },
-
+                          
           { text: 'Diagarmas', link: '/pagina' },
-
          
-          
         ],
       },
     ],

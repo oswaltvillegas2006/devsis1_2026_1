@@ -24,18 +24,14 @@ hero:
 
 
       actions:
-    - theme: alt
+    - theme: brand
       text:  Desenvolvimento
       link: /desenvolvimento
   
 
+     
       actions:
     - theme: alt
-      text: tela
-      link: /tela
-
-      actions:
-    - theme: brand
       text:  Diagramas 
       link: /pagina
 
